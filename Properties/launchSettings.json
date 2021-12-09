@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pyramid": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\smartinez\\Documents\\iva\\cheko.csv"
+    }
+  }
+}
